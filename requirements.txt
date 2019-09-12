@@ -7,4 +7,3 @@ sklearn
 pprint
 ipywidgets
 aequitas
-collections
