@@ -3,8 +3,7 @@ numpy
 matplotlib
 seaborn
 pandas_profiling
-sklearn 
-io
+sklearn
 pprint
 re
 random
