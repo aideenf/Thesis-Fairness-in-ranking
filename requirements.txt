@@ -5,7 +5,6 @@ seaborn
 pandas_profiling
 sklearn
 pprint
-random
 ipywidgets
 aequitas
 math
